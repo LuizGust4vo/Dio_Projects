@@ -1,5 +1,5 @@
 // Tipos de Funções
-/*
+
 // Funções declarativas:
 function DecFunction () {
     console.log ("Função Declarativa");
@@ -26,4 +26,3 @@ var ArrowFunction = () => {
     console.log ("Arrow Function");
 }
 ArrowFunction (); 
-*/
